@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     image: {
         width: '150px',
         [theme.breakpoints.up('sm')]: {
-            width: '320px',
+            width: '300px',
         },
         position: 'absolute',
         boxShadow: 'rgb(99 115 129 / 48%) 80px -40px 80px;',
